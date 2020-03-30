@@ -1,0 +1,26 @@
+hr{
+color: green;
+background-color: green;
+height: 3px;
+}
+
+h1{
+    font-size:14px;
+}
+
+h1,
+h2,
+h3{
+    color: blue;
+}
+
+ul ul{list-style-type: circle;
+}
+
+ul ul ul{
+    list-style-type: square;
+}
+
+li #tecnicas{
+    color: red;
+}

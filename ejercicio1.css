@@ -1,0 +1,17 @@
+.contenedor{
+    width: 900px;
+    background-color:beige;
+    margin-top: 50px;
+}   
+.contenedor2{
+    display: flex;
+    justify-content: space-around;
+ 
+}li{
+   list-style-type: none;
+    display: inline;
+     padding-left:3px;
+     padding-right:3px;
+     
+
+}
